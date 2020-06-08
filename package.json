@@ -1,0 +1,19 @@
+{
+  "name": "pflanzrausch",
+  "version": "1.0.0",
+  "description": "Die Pflanzrausch Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pflanzrausch/pflanzrausch.github.io.git"
+  },
+  "author": "Malte Janßen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pflanzrausch/pflanzrausch.github.io/issues"
+  },
+  "homepage": "https://github.com/Pflanzrausch/pflanzrausch.github.io#readme"
+}
