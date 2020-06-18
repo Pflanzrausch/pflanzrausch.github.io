@@ -44,19 +44,11 @@ img {
 }
 
 footer {
-  text-align: center;
-  padding: .4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
-footer ul {
-  margin: 0;
-}
-
-footer li {
-  display: inline;
-}
-
-footer li:not(:first-child)::before {
-  content: "";
-  margin-left:.3rem;
-  margin-right:.4rem;
+footer > * {
+  margin: .5rem;
 }
