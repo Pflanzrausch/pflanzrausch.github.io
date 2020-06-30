@@ -1,0 +1,92 @@
+/* GENERAL STUFF */
+
+/* h3 > a {
+  color: #d84a7cef;
+} */
+
+.button {
+  border: 1px solid black;
+  background: none;
+  padding: 1rem;
+  color: inherit;
+  text-decoration: none;
+}
+
+/* SPECIFIC COMPONENTS */
+
+.header {
+  height: 100vh;
+  background-color: #F8F0EE;
+}
+
+.header img, .header p {
+  margin: 0;
+}
+
+.header--image {
+  width: 50%;
+  height: 100%;
+  float:left;
+  background: rgb(248, 240, 238);
+}
+
+.header--image > div {
+  height: 100%;
+}
+
+.header--logo {
+  width: 100%;
+}
+
+.header--content {
+  height: 100%;
+  padding: 0 5vw;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0.5rem;
+}
+
+footer > * {
+  margin: 0 .5rem;
+  color: inherit
+}
+
+.main-header {
+  z-index: 10;
+  position: sticky;
+  background-color: #F8F0EE;
+  top: 0;
+  width: 100%;
+  height: 3rem;
+  padding: .8rem;
+  display: flex;
+  justify-content: center;
+}
+
+.main-header a {
+  /* margin: 0 auto; */
+  /* text-align: center; */
+  height: 100%;
+}
+
+.main-header img {
+  margin: 0;
+  height: 100%;
+}
+
+
+@media(max-width: 700px) {
+  .header--image {
+    display: none;
+  }
+}
