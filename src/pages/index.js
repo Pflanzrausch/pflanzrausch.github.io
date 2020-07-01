@@ -12,7 +12,7 @@ const BlogIndex = ({ data }) => {
 
   return (
     <Layout>
-      <SEO title="All posts" />
+      <SEO title="Home" />
       <div className="header">
         <div className="header--image">
         <Img critical fluid={data.file.childImageSharp.fluid} />

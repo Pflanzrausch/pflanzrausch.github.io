@@ -26,6 +26,6 @@ Schnappe dir etwas frische Pflanzerde und einen etwa Daumen großen Stein. Lege 
 
 Bei großer Trockenheit kannst du deine Hauswurz gelegentlich gießen. Den Rest schafft sie ganz allein. Nach etwa 8 Wochen sollte sie die Größe des rechten Bildes erreicht haben. Es bilden sich wieder neue Ableger und du kannst wieder bei Schritt 1. starten!
 
-![Hauswurz im freien und im Top](./1.jpg)
+![Hauswurz im freien und im Top](./5.jpg)
 
 Übrigens: Hauswurze machen sich auch prima in einer Pflanzschale auf dem Fensterbrett!
