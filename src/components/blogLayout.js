@@ -5,10 +5,7 @@ import Layout from "./layout"
 
 import { rhythm } from "../utils/typography"
 
-const blogLayout = ({ location, title, children }) => {
-  // const rootPath = `${__PATH_PREFIX__}/`
-  // if (location.pathname === rootPath) {
-
+const blogLayout = ({ children }) => {
   return (
     <Layout>
       <header className="main-header">

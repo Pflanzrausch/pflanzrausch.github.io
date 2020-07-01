@@ -15,10 +15,10 @@ const BlogIndex = ({ data }) => {
       <SEO title="Home" />
       <div className="header">
         <div className="header--image">
-        <Img critical fluid={data.file.childImageSharp.fluid} />
+        <Img loading="lazy" fluid={data.file.childImageSharp.fluid} />
         </div>
         <div className="header--content">
-          <img className="header--logo" src="./Pflanzrausch.svg" alt="Pflanzrausch Logo" />
+          <img className="header--logo" src="/Pflanzrausch.svg" alt="Pflanzrausch Logo" />
           <p>Hey, cool dass du uns gefunden hast! Wir sind Lea, Tamara und Malte, Studenten der BHT Berlin, und haben unter dem RZE nützliche Tipps und DIY-Projekte zum Thema Plantsharing und Recycling zusammengestellt. Diese kannst du dir hier als Handbuch herunterladen. Falls du in Berlin lebst und deine Pflanzen mit anderen Teilen willst, kannst du unserer Telegram-Gruppe beitreten.</p>
           <a className="button" href="https://t.me/pflanzrausch" target="_blank" rel="noreferrer">Telegramgruppe beitreten</a>
         </div>
