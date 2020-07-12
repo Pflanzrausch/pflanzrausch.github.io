@@ -1,6 +1,6 @@
 ---
 title: Vermehrung durch Triebe im Wasserglas
-date: "2020-06-30T23:46:37.121Z"
+date: "2020-06-30"
 ---
 
 Die meisten Pflanzen, vor allem Zimmerpflanzen, kann man über Triebe vermehren.

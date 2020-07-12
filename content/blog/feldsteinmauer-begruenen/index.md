@@ -1,6 +1,6 @@
 ---
 title: Feldsteinmauer begrünen
-date: "2020-06-30T22:12:03.284Z"
+date: "2020-06-30"
 ---
 
 ![Feldsteinmauer](./2.jpg)
