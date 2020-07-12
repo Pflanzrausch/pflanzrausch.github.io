@@ -1,15 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Pflanzrausch`,
-    author: {
-      name: `Malte Janßen`,
-      summary: `Beschreibung Autor`,
-    },
-    description: `Beschreibung Blog`,
+    description: `Ein Studierendenprojekt mit dem Ziel, den nachhaltigen Austausch von Pflanzen zu vereinfachen.`,
     siteUrl: `https://https://pflanzrausch.github.io/`,
-    social: {
-      twitter: `todo`,
-    },
   },
   plugins: [
     {
